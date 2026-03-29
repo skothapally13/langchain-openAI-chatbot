@@ -23,3 +23,14 @@ User Input → Prompt Template → Gemini Model → Output Parser → Response
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Screenshots
+
+### 🖥️ Chatbot UI
+screenshots/Gemini_Chat_Bot_image.png
+
+### 💬 User Input & Response
+screenshots/even_odd1.png
+screenshots/even_odd2.png
+screenshots/even_odd3.png
+screenshots/sample2.png

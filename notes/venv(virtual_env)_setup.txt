@@ -1,0 +1,21 @@
+step new virtual environment
+
+method 1: with normal python
+python -m venv myenv
+myenv\Scripts\activate
+deactivate
+
+
+method2: with anaconda
+
+conda create -p ./venv python=3.10 -y
+
+
+
+setting up in my laptop
+------------------------------
+cd C:\Users\kotha
+open anaconda prompt
+conda init cmd.exe
+cd C:\Users\kotha\OneDrive\Documents\Naresh_IT\Python\Langchain>conda create -n langchain_env python=3.10 -y
+conda activate langchain_env

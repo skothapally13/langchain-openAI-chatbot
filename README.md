@@ -19,7 +19,8 @@ This project is a simple AI chatbot built using LangChain, Google Gemini API, an
 - Python
 
 ## 🔄 Workflow
-User Input → Prompt Template → Gemini Model → Output Parser → Response
+User Input → Prompt Template → Gemini Model → Output Parser → Responsem
+
 
 ## 🚀 How to Run
 ```bash
